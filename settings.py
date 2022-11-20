@@ -1,0 +1,4 @@
+TG_BOT_KEY = ""
+WALLET_ADDR = ""
+WALLET_PK = ""
+TOKEN_WHITELIST = ""
