@@ -12,7 +12,8 @@ This bot checks if an address is holder of specific tokens based on the token wh
 4. Edit the *settings.py* File: <br> Set **TG_BOT_KEY**,  **WALLET_ADDR**, **WALLET_PK** <br>(modify *RPC_URL*, *TOKEN_WHITELIST* and *DATABASE_FILE* to your needs)
 
 ## Usage
-Run main.py: `python3 main.py`
+Run main.py: `python3 main.py` <br><br>
 
-
-
+Write your bot a message to use the faucet: <br>
+*Example:*<br>
+`/xdai 0x000000000000000000000000000000000000dead`
