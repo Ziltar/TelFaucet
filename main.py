@@ -72,7 +72,6 @@ def isHolder(account):
     return False        
 
 def gimmeFunds(userId, address):
-    isLowOnGas(address)
     if not isLowOnGas(address):
         return "You have enough funds!"
     if not isEligible(userId, address):
