@@ -1,6 +1,8 @@
 # TelFaucet
 Telegram Faucet Bot for EVM Chains.
 
+![Screenshot](https://api.ipfsbrowser.com/ipfs/get.php?hash=QmerWBDToCT7p8m7n7FYN6jZwcD4k68xEqSUUf3Cui4LFm)
+
 ## Telegram bot Faucet for Gnosis Chain
 
 This bot checks if an address is holder of specific tokens based on the token whitelist. It also checks if the address already has enough XDAI (higher 0.003) available and if the Telegram account or this address have already used this Faucet in the last 24 hours. 
